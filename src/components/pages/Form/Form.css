@@ -1,0 +1,31 @@
+.containerformulario {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  background: #fff;
+  border-radius: 8px;
+  margin: auto;
+  
+}
+
+.divPrincipal{
+  background-color: aquamarine;
+ 
+
+}
+.form {
+  align-items: center;
+  
+}
+
+.botaocadastro {
+  width: 500px;
+}
+
+.labelcadastro {
+  text-align: center;
+  color: black;
+}
